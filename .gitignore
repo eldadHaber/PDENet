@@ -1,0 +1,2 @@
+# Ignore my data directory symbolic link
+data/*
