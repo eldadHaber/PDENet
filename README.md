@@ -1,3 +1,3 @@
-# ParabolicResNet
+# PDENet
 
-Parabolic Resnet File
+Deep Neural Networks using PDE's 
